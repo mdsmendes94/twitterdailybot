@@ -13,14 +13,21 @@ Set up
 
 4. Download and install the latest version of Python HERE:
   https://www.python.org/downloads/
+
 And while installing make sure this option is checked.
+
 ![image](https://user-images.githubusercontent.com/89781294/131501804-8ff01ac3-3266-46ec-ada0-5350a4eff289.png)
+ 
+5. You're not done yet after installing Python. You need the Tweepy and Schedule library. For that you must enter into Command Prompt or Power Shell and type the following:
+```bash
+pip install tweepy
+```
+
+```bash
+pip install schedule
+```
+ 
  
 Now that you have both Python and Twitter Dev Account with an app set to Read and Write. It's all a matter of adding the path you want and setting your keys inside the bot.
 
 
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
