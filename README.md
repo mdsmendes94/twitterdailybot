@@ -28,6 +28,6 @@ pip install schedule
 ```
  
  
-Now that you have both Python, a Twitter Dev Account with an app set to Read and Write an these 2 libraries installed. It's all a matter of adding the path you want and setting your keys inside the bot.
+Now that you have Python, a Twitter Dev Account with an app set to Read and Write and these 2 libraries installed. It's all a matter of adding the path you want and setting your keys inside the bot.
 
 
