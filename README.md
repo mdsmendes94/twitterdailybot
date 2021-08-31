@@ -1,5 +1,5 @@
 # twitterdailybot
-Simple bot using tweepy and schedule libraries to post a random image from a folder every day at a given hour.
+Simple bot written in Python using tweepy and schedule libraries to post a random image from a folder every day at a given hour.
 
 Set up
 ------
@@ -28,6 +28,6 @@ pip install schedule
 ```
  
  
-Now that you have both Python and Twitter Dev Account with an app set to Read and Write. It's all a matter of adding the path you want and setting your keys inside the bot.
+Now that you have both Python, a Twitter Dev Account with an app set to Read and Write an these 2 libraries installed. It's all a matter of adding the path you want and setting your keys inside the bot.
 
 
